@@ -8,6 +8,6 @@ export default defineConfig({
   adapter: node({
     mode: "standalone"
   }),
-  site: 'https://michael-n-cooper.github.io',
-	base: '/'
+  site: 'https://accessiblecommunity.org',
+  base: '/digital-accessibility-framework'
 });
